@@ -1,0 +1,1416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christmas ordinary a private show, wherein is expressed the jovial freedom of that festival : as it was acted at a gentleman's house among other revels / by W.R., Master of Arts.</title>
+            <author>W. R., Master of Arts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57223</idno>
+            <idno type="STC">Wing R1375</idno>
+            <idno type="STC">ESTC R6598</idno>
+            <idno type="EEBO-CITATION">13223073</idno>
+            <idno type="OCLC">ocm 13223073</idno>
+            <idno type="VID">98558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 436:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christmas ordinary a private show, wherein is expressed the jovial freedom of that festival : as it was acted at a gentleman's house among other revels / by W.R., Master of Arts.</title>
+                  <author>W. R., Master of Arts.</author>
+                  <author>W. R. (William Richards), 1643-1705.</author>
+               </titleStmt>
+               <extent>[8], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Courtney ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by W.R., Master of Arts [i.e., W. Richards]. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98558:1"/>
+            <pb facs="tcp:98558:1" rendition="simple:additions"/>
+            <p>THE CHRISTMAS ORDINARY, A Private Show; Wherein is expreſſed the <hi>JOVIAL FREEDOM</hi> of that <hi>Feſtival.</hi>
+            </p>
+            <p>
+               <hi>As it was Acted at a Gentleman's Houſe among other</hi> REVELS.</p>
+            <p>By <hi>W. R.</hi> Maſter of Arts.</p>
+            <q>
+               <l>Nill Laſcivius eſt Cariſiano;</l>
+               <l>Saturualibus ambulat Togatus.</l>
+               <bibl>
+                  <hi>Mart. lib. 6. Epigr. 22.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Courtney,</hi> at the <hi>Golden Horſe-ſhoe,</hi> on <hi>Saffron Hill,</hi> 1682.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:98558:2"/>
+            <pb facs="tcp:98558:2"/>
+            <head>THE PREFACE.</head>
+            <p>AS the Stages of our Theaters, ſo that of the World too, is throng'd with Comedy; and the Repreſentations of Mirth have been of late ſo numerous, that the whole <g ref="char:V">Ʋ</g>niverſe ere long will be a Vatican of Play-Books. And indeed 'tis no wonder they ſwarm ſo, ſeeing whatſo<g ref="char:EOLhyphen"/>ever is Acted within Doors, is immediately expos'd to veiw without, and the Play-Houſes in <hi>London</hi> are but as it were the Tireing Rooms to the Thea<g ref="char:EOLhyphen"/>tre or Cirque of Nature. Every Book ſellers Shop now is a <hi>Duke's Houſe,</hi> and preſents us with a Play; and almoſt every Street (like a <hi>Salisbury Court</hi>) Exhibits <hi>Scenes</hi> for Pleaſure, and Diverſion. The Boxes and Pit have been as much Tormented with the noiſe of Farce, and Fable, as <hi>Fronto</hi>'s Plane-Trees, with the tedious Repetitions of Hoarſe Po<g ref="char:EOLhyphen"/>ets; <hi>Juven. Satyr. 1.</hi> and as his Marbles burſt through the ſevere Infliction of too much Poetry: So theſe have underwent their Fate, cracking al<g ref="char:EOLhyphen"/>moſt under the Pennance of clamorous Buffonry. So that now we have ſuch variety of Humors to tickle our Spleens, and ſuch mighty Helps for the promote<g ref="char:EOLhyphen"/>ing of Laughter, that I cannot conceive how the
+<pb facs="tcp:98558:3"/>World can be Sad again. And indeed, that it may never ſit Penſive in the ſhades of Melancholy, nor ſink into Languors through exceſſive Sorrow, I make bold to preſent it with a Particle of <hi>Apollo,</hi> a Glympſe of <hi>Phaebus,</hi> a Beam of Wit, and Elo<g ref="char:EOLhyphen"/>quence, to chaſe away Night from Clowdy Brows; here is a Doſe of Cordials, ſome Diſtillations of <hi>He<g ref="char:EOLhyphen"/>licon</hi> to cheer up, and revive all Drooping Spi<g ref="char:EOLhyphen"/>rits.</p>
+            <p>'Tis the Firſt-Born of a young Academick Head, which ſince hath been Deliver'd of moſt excellent Productions. It hath lain Dormant almoſt half an Age, and hath only crawl'd out in Manuſcript into ſome few hands; who likeing the Entertainment they found in it, thought it too good a Morſel to be Devour'd by Moths, but ſuppos'd it a fitter Bit to feed ſome Book ſeller, and therefore wiſht it might rather be advanc'd to the Clutches of the one, than miſerably be condemn'd to the grinders of the other.</p>
+            <p>Here are as Ingenious Paſſages, and as Humo<g ref="char:EOLhyphen"/>rous Conceits, and as Lively Deſcriptions, as any occurs in the moſt celebrated Dramatick. But if theſe Beautiful Charms will not in the leaſt allure the Reader, then let the Deformity of the Shape in<g ref="char:EOLhyphen"/>vite and draw him; for 'tis neither exact Comedy, Farce, or Tragedy, but a ſpatch'd Chimaera; that
+<pb facs="tcp:98558:3"/>hath ſomewhat of every one, and the Spirit, Flame, Elixir of them all. 'Tis a Monſter in Learning, as great as any that occurrs in Nature, and if men will not read it for its Ingenuity, yet I hope they will come ſee it, as a Prodigy, and ſo gratifie their Curioſity, if not pleaſe their Fancy.</p>
+            <closer>
+               <dateline>
+                  <hi>Helmdon,</hi> 
+                  <date>
+                     <hi>Octob. 18. 1682.</hi>
+                  </date>
+               </dateline>
+               <signed>W. R.</signed>
+            </closer>
+         </div>
+         <div type="setting">
+            <pb facs="tcp:98558:4"/>
+            <head>The SCENE <hi>
+                  <g ref="char:V">Ʋ</g>bivis.</hi>
+            </head>
+            <p>The Time from Chriſtmaſs till Twelfth-night.</p>
+            <div type="dramatis_personae">
+               <head>Dramatis Perſonae.</head>
+               <list>
+                  <item>Mr. <hi>Make Peace,</hi> A Countrey-Juſtice.</item>
+                  <item>
+                     <hi>Aſtrophil,</hi> An Aſtronomer, his Son.</item>
+                  <item>
+                     <hi>Humphry,</hi> The Juſtice's Man.</item>
+                  <item>
+                     <hi>Drink-Fight,</hi> A Jovial Souldier.</item>
+                  <item>
+                     <hi>Auſtin.</hi> An Hermit.</item>
+                  <item>
+                     <hi>Shab-Quack,</hi> A poor Chyrurgeon.</item>
+                  <item>
+                     <hi>Roger.</hi> An Apprentice to <hi>Shab-Quack.</hi>
+                  </item>
+                  <item>
+                     <hi>Win-all,</hi> An Hoſt of an Ordinary.</item>
+               </list>
+            </div>
+            <div type="dramatis_personae">
+               <head>An Inducted Show.</head>
+               <list>
+                  <item>
+                     <hi>Apollo.</hi>
+                  </item>
+                  <item>
+                     <hi>Terra.</hi>
+                  </item>
+                  <item>
+                     <hi>Ver.</hi>
+                  </item>
+                  <item>
+                     <hi>AEſtas.</hi>
+                  </item>
+                  <item>
+                     <hi>Autumnus.</hi>
+                  </item>
+                  <item>
+                     <hi>Hyems.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:98558:4"/>
+            <head>THE ARGUMENT.</head>
+            <p>
+               <hi>ROGER</hi> eſcaping from his Maſter <hi>Shab-Quack,</hi> at <hi>Chriſtmaſs</hi> Time, me is with <hi>Drink-fight,</hi> and joyns with him in a Knot of Merriment: They alſo inveigle the Hermit and <hi>Aſtrophil.</hi> Mr. <hi>Make-peace</hi> be<g ref="char:EOLhyphen"/>ing penſive at his Son's Departure, ſends <hi>Humphry</hi> to enquire him out, who, in the Diſguiſe of a Traveller, finds them frolick<g ref="char:EOLhyphen"/>ing at an Ordinary; who inſinuates himſelf into their Mirth: Afterwards, with falſe Dice, cheats them, and eſcapes. They afterwards, wrangling about the Reckoning, beat their Hoſt, who ſummons them all before the Ju<g ref="char:EOLhyphen"/>ſtice, and runs to <hi>Shab-Quack</hi> for Cure. Mr. <hi>Make-peace</hi> perceiving his Son <hi>Aſtrophil</hi> amongſt them, joyfully entertains him and the reſt. <hi>Shab-Quack</hi> pardons his Servant's Chriſtmals Merriment, and the Hermit, in a jolly Humor, is bound Apprentiee to the Hoſt.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:98558:5"/>
+            <head>THE PROLOGUE.</head>
+            <lg>
+               <l>
+                  <hi>WE need not ſift our Audience, ſince we may,</hi>
+               </l>
+               <l>
+                  <hi>In each Man's Looks read an artic'late Play.</hi>
+               </l>
+               <l>
+                  <hi>Acted in mirthful Glances from our Stage;</hi>
+               </l>
+               <l>
+                  <hi>We bar thoſe Hiſtrio-maſticks of the Age:</hi>
+               </l>
+               <l>
+                  <hi>For what's here worth their Envy? Whoſe grim Star,</hi>
+               </l>
+               <l>
+                  <hi>More ſourly ſnarles than</hi> AEſop<hi>'s Picture far.</hi>
+               </l>
+               <l>
+                  <hi>Who wear ſuch Vin'gar Faces, and ſwoln Spite,</hi>
+               </l>
+               <l>
+                  <hi>That the Spectators might be made the Sight.</hi>
+               </l>
+               <l>
+                  <hi>This to the Cynick Spies</hi>—</l>
+               <l>
+                  <hi>Since all then would ſeem candid, let none uſe</hi>
+               </l>
+               <l>
+                  <hi>Satyrick Rods to ſuch a Cradle Muſe.</hi>
+               </l>
+               <l>
+                  <hi>She's your Camelion, and the Air ſtrikes dead,</hi>
+               </l>
+               <l>
+                  <hi>Or keeps alive; ſhe by your Smiles is fed.</hi>
+               </l>
+               <l>
+                  <hi>Expect not then thoſe Men's high fancied Streins,</hi>
+               </l>
+               <l>
+                  <hi>Where Wit is the Complexion of their Brains;</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Words ſo ſtrain'd from Droſs, ſo purely plac't,</hi>
+               </l>
+               <l>
+                  <hi>As if they were not only rank'd but caſt,</hi>
+               </l>
+               <l>
+                  <hi>Alas, 'tis hard to fit the Palate, where</hi>
+               </l>
+               <l>
+                  <hi>'Tis plac't i'th Eye, and Taſte dwells in the Ear.</hi>
+               </l>
+               <l>
+                  <hi>But if our Infant-Cook ſhall pleaſe your nice</hi>
+               </l>
+               <l>
+                  <hi>Judgment with Meſſes, which your Breath muſt ſpice,</hi>
+               </l>
+               <l>
+                  <hi>We'll joy our Ordinary with ſuch Reſort,</hi>
+               </l>
+               <l>
+                  <hi>Will both be made a College, and a Court.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:98558:5"/>
+            <head>
+               <hi>The Chriſtmaſs Ordinary.</hi> 
+            </head>
+            <stage>
+               <hi>Enter</hi> Drink-Fight <hi>and</hi> Roger, <hi>at ſeveral Doors.</hi>
+            </stage>
+            <div n="1" type="scene">
+               <head>SCAENA PRIMA.</head>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>WEll met my brave <hi>Roger!</hi> Thou wandering Shop of Surgery! Thou <hi>Aeſculapius</hi> or Common-Wealth of Phyſitians, that hath engroſt the Monopoly of Cures! How fares thy Maſter <hi>Shab-Quack?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Faith (Captain,) he lives like an Horſe-Leech upon other Folks Blood, and his beſt Setting up is, when his Cuſto<g ref="char:EOLhyphen"/>mers break their Legs, or their Pates, and then he is the exact Emblem of Envy, or a bad Officer: for he grows Fat by his Neighbours Croſſes, and ſcrapes up Wealth by Corruption. I and my Maſter are like to City-Scavangers; for whilſt he is the Broom ſtill cleanſing their Wounds, it is my Trade always to cleanſe their Pockets. The laſt Redemption he practic'd was up<g ref="char:EOLhyphen"/>on your Pinnace, when the <hi>French</hi>-Fowling-Peice, charg'd with Stone Bullets, ſhot you through the Mediterranean, till your Gun-Room ſprang a Leak, and your Pump ran blood like a knock'd Marrow-bone; but ever ſince, he hath lain moulding at home, like the ruſty Spits in Lent, clean out of ſervice. He hath been a Fortnight in Commons with the Rats, and hath ſcarce had main<g ref="char:EOLhyphen"/>tenance to keep him from Dining upon his own Lice: But let thoſe Sores and Plaiſters go with a Pox to 'em; I'll feed no more on other mens Cuttings, nor live a tame Cannibal upon Man's Fleſh. I'll walk more Free than the unlimitted Air, more Licentious, than the <hi>Dutch</hi> Marriners in a Pillage. I hate all Vo<g ref="char:EOLhyphen"/>cations, but calling for Liquor, and I ſcorn to be over-rul'd by any Body, but Strong-Drink.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Why then thou art an Acute Raſcal—</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Faith (Sir!) I think I am; Rogue, and Raſcal are my
+<pb n="2" facs="tcp:98558:6"/>Right Worſhipful Surnames, and to deſerve theſe Titles of Note, is the Ambition of my Profeſſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Then let's join (my Acromatical Villain!) that the Hiſtory of Roguery may ſtuff up Chronicles, and be thought too monſtrous a Subject for Tragedy, that hereafter we may be Sainted for unimitable Villanies. I that heretofore have danc't Anticks up to the Chin in an Occan of Blood, when the <hi>Veſuvi<g ref="char:EOLhyphen"/>us</hi> of my Throat (like <hi>Phlegeton</hi>) belch'd out nothing but Flame, and Thunder-bolts; and the Skirmiſh hath been ſo hot, that I liv'd like a Salamander in the Fire: I have Winter'd e're now Three Months in a Coat of Ice, inſtead of Armour, and been fed with nothing but the North-wind temperately Fann'd by the warm blaſt of Fame. I have lain down a Man, and have roſe up a Snow-ball. My Belly hath had as many holes-bor'd in it as the <hi>Danaid's</hi> Tub; ſo that I have been fain to tie up my Breeches with my Heart-ſtrings, and twine my Guts about my Wriſt, like a rowl of Match. But I have ſince forbore all bloody Pates, but the bleeding of Claret Hogs-heads; all Weapons go againſt my Sto<g ref="char:EOLhyphen"/>mach, but Fry'd Pikes, and Sword-Fiſh; the Mettal of my Dag<g ref="char:EOLhyphen"/>ger is Metamorphoz'd into jingling Spurs, but the brazen Hilt flew in my face. My Tent is become an Ordinary, where my Buff-Jacket is converted into Leathern Jacks, and my Armour is coin'd into Pewter-Wine-Pots. I have been lately reputed a moſt re<g ref="char:EOLhyphen"/>nowned Cheater, and indeed I borrow'd that Art of a certain Ci<g ref="char:EOLhyphen"/>ty-Major, who was properly married to his Trade; for his Wives Petty-coat was his beſt Warehouſe; whence he grew to be the Frontis-peice of the Town; for the Ford he maintain'd in his Cellar, and the Ox in his Head. But come my Sublimated Alchi<g ref="char:EOLhyphen"/>my of madneſs; Let's purſue our Speculations, and whom we find Heretical againſt our Ordinary, we'll either convert him to our Orthodoxal Apoſtacy, or ſend him to Purgatory to do Pen<g ref="char:EOLhyphen"/>nance for being ſober at Chriſtmaſs.</p>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>
+                  <hi>Enter</hi> Aſtrophil ſolus, <hi>as waking out of Sleep, with a Globe by him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>Two Bunches of Stars rode by without my leave;
+<pb n="3" facs="tcp:98558:6"/>they are Traitors to our Crown; they ſhould have askt a Ticket for their Paſs. Yonders a Cloud ſick with a Timpany, 'tis now deliver'd. <hi>Apollo</hi> with <hi>Sagitta</hi> fleadg'd with <hi>Phaenix</hi> Feathers, ſhot through <hi>Iris</hi> Bow, and ſlew the <hi>Python</hi> Miracles! The Planets are all in a Combuſtion, and the Conſtellations are turn'd Luna<g ref="char:EOLhyphen"/>tics. What is it Holy Day in Heaven? See! the gods are drunk with Nectar, and the Stars which enjoy continual Wakes, are now join'd in a Morrice Dance; ſometimes Stationary, ſome Retro<g ref="char:EOLhyphen"/>grade, whilſt the Harmony of the Spheres make up the conſort. Look yonder are <hi>Caprae Saltantes</hi> skipping a Jig, and <hi>Lyra</hi> plays to 'em. <hi>Arctophylax</hi> hath put a Ring in the Noſe of <hi>
+                        <g ref="char:V">Ʋ</g>rſa</hi> Major, and leads him about, whilſt he Dances the Bears mask. Sure the Heavens keep open Houſe, for <hi>Caſtor</hi> and <hi>Pollux</hi> are drinking a Syl<g ref="char:EOLhyphen"/>libub, <hi>in via Lactea,</hi> and <hi>Vindemiatrix</hi> pledges them in <hi>Crater.</hi> Yonder <hi>Cephus</hi> hath gotten the Arctick Pole for a Fiſhing Rod, ty'd to the Meridian Line, and is Angling for <hi>Piſcer; Crux, Pavo,</hi> and <hi>Columba</hi> are a roaſting by an <hi>Ignis Fatuus,</hi> and a Surloin of <hi>Taurus</hi> is Dreſſing, whilſt <hi>Virgo</hi> turns the Spit. They dare not but in<g ref="char:EOLhyphen"/>vite me to their Gawdys. 'Tis good being in Heaven at this time a Year. Well! I muſt conſult the Lady <hi>Caſſiopeia,</hi> concerning the Revels; for ſhe hath ſate contemplating in her Judgment Seat, with a Parliament of Stars, and <hi>Libra</hi> hath been all this while weighing the matter.</p>
+               </sp>
+               <stage>[Exit.</stage>
+            </div>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>
+                  <hi>Enter</hi> Auſtin, <hi>running before</hi> Drink-Fight, <hi>and</hi> Roger.</stage>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Wilt thou ſtill Pilgrimize thus mutely, like a Travelling Sign-poſt, and be gaz'd at as an Owl at Noon-day, till the School Boys Martyr Thee with Snow Balls and Rotten Egs? Was Nature out of Breath when ſhe made Thee, that ſhe gave Thee no more Spirit? Or had <hi>Prometheus</hi> no fire left, when Thou wert fram'd, and ſo thy Soul was made of ſome dying Snuff? Well! either drench thy ſelf from this ſober Madneſs, or like <hi>Me<g ref="char:EOLhyphen"/>duſa</hi>'s head, I'll look Thee to a Stone Bottle.</p>
+               </sp>
+               <sp>
+                  <speaker>Auſtin.</speaker>
+                  <p>Legions, Legions of Evil Spirits, aſcending and de<g ref="char:EOLhyphen"/>ſcending in the Air!</p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="tcp:98558:7"/>
+                  <speaker>Roger.</speaker>
+                  <p>Nay, We'll Anatomize Thee alive, then ſcrew out thy Bones, and make Tabacco Pipes of 'em; thy Skull we'll turn into a Sack Bowl; thy Fleſh we'll mangle to make Mince Pies of, for <hi>Cerberus,</hi> but thy Cave ſhall be turn'd into a Bawdy Houſe, with the Sign of the Elephant hung out.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Ha, Ha, Hey!</p>
+               </sp>
+               <sp>
+                  <speaker>Auſtin.</speaker>
+                  <p>Curſed be ye that perſecute the Innocent and Harm<g ref="char:EOLhyphen"/>leſs!</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Are you ſtill Canting o're thoſe high-way Phraſes of Religion? nay, never flie, we'll be everlaſting Duns to bait Thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>And haunt thy ſide more inſeperably, than thy E<g ref="char:EOLhyphen"/>vil <hi>Genius.</hi>
+                  </p>
+               </sp>
+               <stage>[Exeun.</stage>
+            </div>
+            <div n="4" type="scene">
+               <head>SCENE IV.</head>
+               <stage>
+                  <hi>Enter Mr.</hi> Make-peace <hi>and</hi> Humphry <hi>attending him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mr. <hi>Make-peace.</hi>
+                  </speaker>
+                  <p>Go <hi>Humphry</hi> put my Son out of his Melancho<g ref="char:EOLhyphen"/>ly Element, or elſe he'll ſtudy himſelf to Whit-Leather. O this <hi>Aſtrophil</hi> doth ſo Banquet me with joy, that I am almoſt cloy'd with my Felicity, and I grow hoarſe in Gratulatory Praiſes. He is ſuch a Son, whom the Creation worſhips; the Map, or Com<g ref="char:EOLhyphen"/>mon Place Book of the gods; the Arch Regiſter of Heavens Star-Chamber. To me he is a mere Dictionary of hard words, and confounds me with new Plantations in the Planets. He can tell who made the Moon firſt a Cuckoldeſs, and gave her Horns, and hath extracted a Quinteſſence to cure the Orbs of their <hi>Vertigo,</hi> and their Palſie of Trepidation. He hath invented a Magical Spell will fright the Sun from his Coach Box, and can toſs the Earth up and down like a Foot Ball. He told me that <hi>Jupiter</hi>'s Larder ſtood wide open, and promis'd me a meſs of Conſtellations for my Breakfall. He ſaith, He'll pluck the wings of Time, and make me a Feather Bed, and my Houſe ſhall be pav'd with a Quarry of Thunder Bolts. I am Grandſir to ſome Four and Twenty Folio's of his Iſſue already. He means to people whole Libraries with his Families, and there hang 'em in Chains to Immortality.</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>Sir, I have been more narrowly Inquliſitive, than
+<pb n="5" facs="tcp:98558:7"/>Revenge, or Frantick Jealouſie. I left ne're a Cranny, or Eye<g ref="char:EOLhyphen"/>let-hole unſearch'd, as if I had ſought a dead Fly, or an Em<g ref="char:EOLhyphen"/>mets Eg. There's ne're a pair of Snuffers, or Inkhorn in the Houſe but I have examin'd, and half worn out, with often turning of them. But there was no man living there. Sir! my young Ma<g ref="char:EOLhyphen"/>ſter is departed.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Make-peace.</hi>
+                  </speaker>
+                  <p>How? departed? why he cannot die, the trembling Fates are afraid of him, leaſt he ſhould prove their Deſtiny, and Death himſelf pays Fine to him for a Leaſe of his Dominion.</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>Sir! He is not to be found.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Make peace.</hi>
+                  </speaker>
+                  <p>What? not in his Study? thou lieſt, and yet 'tis true, <hi>[aſide]</hi> Go call in <hi>Aſtrophil,</hi> or—what doſt thou anſwer me? go ſeek him ſpeedily—where wilt thou run?—wilt thou go before thou knowſt whether? And I cannot direct thee. Flie ſwiftly every where, and recover him quickly, or I ſhall not have a dram of Peace, and Juſtice.</p>
+               </sp>
+               <stage>[Exeunt.</stage>
+            </div>
+            <div n="5" type="scene">
+               <head>SCENE V.</head>
+               <stage>
+                  <hi>Enter</hi> Dring-Fight <hi>with a Pot and Cup,</hi> Aſtrophil, Auſtin, <hi>and</hi> Roger <hi>with their Cups.</hi>
+               </stage>
+               <sp>
+                  <speaker>
+                     <hi>Drink-Fight</hi> to <hi>Aſtrophil.</hi>
+                  </speaker>
+                  <p>Were it not braver ſtill to bathe thy Spirits in warm ſtreams of <hi>Nepenthe,</hi> than to ſtew thy ſelf up in a Fur'd Gown, and melt away thy Soul like a Watch Can<g ref="char:EOLhyphen"/>dle? Away with thoſe Fume Bibbers, that drink nothing but night Air, and Lamp Smoke! Here's a Liquor will glaze your Face, till it ſhine like the Man i'th' Moon! O! 'twill create ſuch an Intelligence in the Brain-Sphere, that 'twill make the Orb of the Head run round like the <hi>Primum Mobile.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>Theſe Caeleſtial Riddles in this are moraliz'd, and I am become your Convert, I will hereafter be Diametrically oppos'd to all Sobriety. My Courſes ſhall be more crooked, than the Eclyptick Line, and I will reſt a continual Inhabitant in the Tor<g ref="char:EOLhyphen"/>rid Zone of Canary. Hang the Conſtellations in the Belt of the Zodiack, we'll have more variety of Delights in one Hour, than the Moon hath changes in one Year, or than <hi>Iris</hi> wears Colors in
+<pb n="6" facs="tcp:98558:8"/>her multiform Girdle. Oh thou <hi>Alpha</hi> of all Sciences, and Center of all Perfections! A Quire of Planets make up that one Pate: Thou haſt more Vertues in thee, than there are Scruples in a Major Circle. Let's embrace like <hi>Gemini.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Come Hermit, refine thy ſelf from the obtuſe Idiotiſms of Honeſty; be drunk, and turn mad man, and thou mayeſt be ſaved yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Auſtin.</speaker>
+                  <p>Before this Lecture, I had no more Wit in me, than a Face painted upon a Stone Jug: Such a <hi>Grotian,</hi> that <hi>Apuleius</hi> his Aſs was a grand Sophy to me. I was as ſilly, as if I fed upon nothing but Woodcocks Brains; but I am tranſubſtantiated, and my Soul is become all Wild Fire. From henceforth, I'll live the Comedy of the Age. My Life ſhall be a continual <hi>Bac<g ref="char:EOLhyphen"/>chanal,</hi> and the ſpungy Dutchmen compar'd to me, ſhall go for ſober <hi>Cato</hi>'s.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Now then to give you a Taſte, or Sip of your Happineſs, why this Drink is a pure <hi>Elixir,</hi> the true <hi>Aqua vitae,</hi> 'tis the only Step and Degree of Reputation: For it will make you Blades of great Account in other mens Books: 'Tis Liquor. It is a very Idol: For it makes all men fall down to it. Drunk<g ref="char:EOLhyphen"/>enneſs is a Catalogue of all the Faculties. Do you deſire Phy<g ref="char:EOLhyphen"/>ſick, here's then the Antimonial Cup, that cures all Diſeaſes; the Potion that will ſtill keep you in Health. If you ſtudy the Law, this is the mere Midwife of Juſtice: For it brings forth all; and if perhaps it receives too much, it will purge it ſelf clearly, by Mouth, and reſtore it again with Uſury: And pray, where will you look for a College of great Divines, but where there is a good Fellowſhip? Away then with theſe <hi>Hydro-potiſts!</hi> Thoſe <hi>Anathematiſts</hi> to all Jollity: Let them empty Wells with <hi>Cleanthes</hi> Backet. Here's Drink will make you deliver your mind in a Flood of Expreſſions, and ſpew like <hi>Homer:</hi> and 'tis therefore called Double Beer, becauſe it doubles your Capacity, and makes you ſpeak and ſee every thing double. What's the reaſon then that Fiſhes are ſo dumb? 'Tis becauſe they drink no<g ref="char:EOLhyphen"/>thing but Water; and no marvel, if <hi>Tantalus</hi> thirſt in the midſt of a River, when he ſtands up to the Chin in Tiff and Tap-laſh, whilſt one Bowl of this <hi>Nectar</hi> would make him account his Hell a Paradiſe.</p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="tcp:98558:8"/>
+                  <speaker>Roger.</speaker>
+                  <p>Then let us be jovial, my ſturdy Antipodes, my vigi<g ref="char:EOLhyphen"/>lant Student of the Wine-Tub. There's no ſuch Sanity, as to be ſick with the Staggers, and the ſweeteſt Life is to be dead drunk.</p>
+               </sp>
+               <sp>
+                  <speaker>Auſtin.</speaker>
+                  <p>I will never more be ſober, till the Devil turns Tap<g ref="char:EOLhyphen"/>ſter. Bring me hither the famous <hi>Boruſſian</hi> Bottle of a thouſand, and five Ells long, or the Barrell at <hi>Heidelberg,</hi> that I may ſet my Noſe to the Bung, and ſuck it dry. <hi>Hauſtic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> for a Deluge of Strong Beer, that I might begin it all <hi>ſupernaculum</hi> to my A<g ref="char:EOLhyphen"/>cademical Captain.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>Methinks the Conſtellation of <hi>Eridanus</hi> were but a Draught, and I could ſup up whole <hi>Helicon</hi> in a Breath <hi>ex tem<g ref="char:EOLhyphen"/>pore:</hi> Sure I could drink more than <hi>Apollo</hi> after a Shower.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>But my Frolick Aſſociates, before you be Regiſt<g ref="char:EOLhyphen"/>er'd into our Rubrick, I muſt charge you with theſe four Canons. Firſt, That no man dare to talk wiſely, or to talk Sence. Next, that neither of you preſume to commit the groſs Indignity of ſleeping above twice a Fortnight. Thirdly, That you refuſe no Cups, but <hi>Poculum Charitatis,</hi> which you muſt always excommunicate and baniſh the Society: And Laſtly, That you pay no Reckon<g ref="char:EOLhyphen"/>ings: For 'tis a diſparagement to your Credit not to be truſted; but ſtill ſwear the Hoſt out of his Faith. Hence therefore, it will be expedient, to furniſh your ſelves with a Volly of Oaths, to diſcharge upon all Aſſaults. Now there be mincing Oaths, for the City, courageous-Oaths for the Court, and Hob nail Oaths, for the Country: There be Cudgel-Oaths, to break a Creditor's Pate, Rapier-Oaths, to run a Serjeant through with, and Back<g ref="char:EOLhyphen"/>ſword-Oaths, to croſs an Ale-houſe Score. I have a rich Mint of them, you ſhall have them ſtamp'd of the lateſt Edition and Coining.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>Would I had as many Ears as <hi>Autumn,</hi> to drink in your Fluent Precepts.</p>
+               </sp>
+               <sp>
+                  <speaker>Auſtin.</speaker>
+                  <p>I'll be no more mindful of theſe ſame Statutes, than an hungry Scholar is of a Feaſt, or a young Heir of his Day of one and twenty.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="tcp:98558:9"/>
+                  <speaker>Drink-fight.</speaker>
+                  <p>Enter 'em both.</p>
+               </sp>
+               <stage>[Drink-Fight <hi>fills the Cup, and they both drink all.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>What muſt I kiſs the Cup?</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>No, you muſt ſwear deeply: This is a Cup of <hi>Lethe,</hi> that will make you forget the hainous Solaeciſm of Temperance; hey brave, ſoaking Cavaleero's, here's <hi>Auſtin</hi> hath it <hi>ad unguem</hi> already.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Now my free Comrades, that our Mirth may not halt, but ſtream along with full Meaſure, I have here pro<g ref="char:EOLhyphen"/>cured a roaring Carrol, nam'd <hi>The Tripple Invitation,</hi> of the Tap<g ref="char:EOLhyphen"/>ſter, Alewife and Drawer, to their ſeveral Liquors.</p>
+               </sp>
+               <lg>
+                  <head>Tapſter.</head>
+                  <l>
+                     <hi>Beer leave to the Barrel,</hi>
+                  </l>
+                  <l>
+                     <hi>And broach no Quarrel;</hi>
+                  </l>
+                  <l>
+                     <hi>Let all your drawn Anger be ſpilt:</hi>
+                  </l>
+                  <l>
+                     <hi>Here's a Bowl to the Brim,</hi>
+                  </l>
+                  <l>
+                     <hi>Will make your Tongue ſwim,</hi>
+                  </l>
+                  <l>
+                     <hi>And your Jollity run a Tilt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>(2.)</head>
+                  <l>
+                     <hi>The Spigot which flows</hi>
+                  </l>
+                  <l>
+                     <hi>From the tap of the Noſe.</hi>
+                  </l>
+                  <l>
+                     <hi>Kindles Bonefires in the Head.</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis the Midwife Man,</hi>
+                  </l>
+                  <l>
+                     <hi>To the Knights of the Can;</hi>
+                  </l>
+                  <l>
+                     <hi>For't ſpeedily brings 'em to Bed.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Alewife.</head>
+                  <l>
+                     <hi>Where Red Lettice doth ſhine,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis an outward Sign,</hi>
+                  </l>
+                  <l>
+                     <hi>Good Ale is a Traffick within:</hi>
+                  </l>
+                  <l>
+                     <hi>It will drown your Woe,</hi>
+                  </l>
+                  <l>
+                     <hi>And thaw the old Snow,</hi>
+                  </l>
+                  <l>
+                     <hi>That grows on a froſty Chin.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:98558:9"/>
+                  <head>(2.)</head>
+                  <l>
+                     <hi>Here's againſt a Storm,</hi>
+                  </l>
+                  <l>
+                     <hi>Lamb's Wooll to keep warm,</hi>
+                  </l>
+                  <l>
+                     <hi>And the Lips of the bonny ſhee Hoſt.</hi>
+                  </l>
+                  <l>
+                     <hi>Your Cup do not ſcorn,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis a Cuckold's Horn,</hi>
+                  </l>
+                  <l>
+                     <hi>Your Sawce is a Nutmeg Toſt,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Drawer.</head>
+                  <l>
+                     <hi>But hither come ruſh,</hi>
+                  </l>
+                  <l>
+                     <hi>Ye Birds of the Buſh.</hi>
+                  </l>
+                  <l>
+                     <hi>Compoſe all Strifes in a Jar:</hi>
+                  </l>
+                  <l>
+                     <hi>If it be not enough,</hi>
+                  </l>
+                  <l>
+                     <hi>Then take it in Snuff,</hi>
+                  </l>
+                  <l>
+                     <hi>We'll anſwer it ſtraight at the Bar.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>(2.)</head>
+                  <l>
+                     <hi>Would ye reel to a Wench?</hi>
+                  </l>
+                  <l>
+                     <hi>Here's the ruddy</hi> French;</l>
+                  <l>
+                     <hi>And leaſt you ſhould want Language to ſpeak,</hi>
+                  </l>
+                  <l>
+                     <hi>Canary from</hi> Spain,</l>
+                  <l>
+                     <hi>Shall advance your Brain,</hi>
+                  </l>
+                  <l>
+                     <hi>And your very Wine ſhall be Greek.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Corollary or Aſſent.</head>
+                  <l>
+                     <hi>Hang Sider and Perry,</hi>
+                  </l>
+                  <l>
+                     <hi>With Beer, Ale and Sherry,</hi>
+                  </l>
+                  <l>
+                     <hi>Let's waſh away muddy Cares;</hi>
+                  </l>
+                  <l>
+                     <hi>We'll trowl the Bowl quicker;</hi>
+                  </l>
+                  <l>
+                     <hi>Then ſing till our Liquor,</hi>
+                  </l>
+                  <l>
+                     <hi>Be rarified into Airs.</hi>
+                  </l>
+                  <l>Onmes— <hi>Wee'll trowl,</hi> &amp;c.</l>
+               </lg>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>Come away, my rare Canary Birds, there's no ſuch Muſick as in a Tobaccopipe, and the ſweeteſt Inſtrument is a <hi>Sackbut.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="6" type="scene">
+               <pb n="10" facs="tcp:98558:10"/>
+               <head>SCENE VI.</head>
+               <stage>
+                  <hi>Enter</hi> Win-all, <hi>the Hoſt,</hi> ſolus.</stage>
+               <sp>
+                  <speaker>Win-all.</speaker>
+                  <p>Here's a Meſs of Roarers within my Hall, are able to ſwallow up a Red Sea of Claret, and never belch at it. Their Canon Throats, if they were in the Cellar, would make an Earthquake. There's a gilded Captain, is a mere embroider'd Beggar, the Seignior Decoy of the City, that lives by ſeducing wild Ducklings; he's a moſt entire Coward; but I cannot blame him for being in the Gentleman's Faſhion: He'll ſwoon at the ſight of a cut Finger: The Flaſh of a Touch-Hole, will make him fly the Realm. I am not ignorant how many Ordinaries have lain upon their Death Beds, and how many Alehouſes have given up the Ghoſt, by his frequenting: They count us the mere Scum and Chippings of the Town, the <hi>Parentheſis,</hi> or <hi>Apochrypha</hi> of the Commonwealth: But they ſhall find, we are Men of greater Reckoning than they, when they come to our Bills.</p>
+                  <floatingText xml:lang="eng" type="bill">
+                     <body>
+                        <head>A Bill.</head>
+                        <p>
+                           <hi>Inprimis,</hi> For the Ale and lofty Beer, ſerved out in Firkins: Sack in full Career, did flow in a Spring Tide; next I did bring five Ells of Rope Tobacco in a String.</p>
+                        <p>
+                           <hi>Item,</hi> Three Ranks of Pipes deſtroyed: Nay, more; beſides, of broken Glaſſes, ſome threeſcore.</p>
+                        <p>
+                           <hi>Item,</hi> My own ſweet Company, and the Set of Salted Jeers, beſides three Diſhes of Wit: Next, my Wive's wanton Kiſſes, and ſoft Knee.</p>
+                        <p>
+                           <hi>Item,</hi> A Sallad of her Bawdery.</p>
+                        <p>
+                           <hi>Item,</hi> For Noiſe and Stamping I'll be paid.</p>
+                        <p>
+                           <hi>Item,</hi> Four times Conjunction with my Maid.</p>
+                     </body>
+                  </floatingText>
+                  <l>Nay, ye ſhall pay for all, for room and ſeat,</l>
+                  <l>And every Cuſtom 'cauſe you have no Meat.</l>
+                  <l>I have an Army of more things to put in,</l>
+                  <l>I know not where to end, where to begin.</l>
+                  <pb n="11" facs="tcp:98558:10"/>
+                  <p> Well, I'll go in, and try whether the odd Rundlet of Cana<g ref="char:EOLhyphen"/>ry be yet in Conſumption or no—</p>
+               </sp>
+            </div>
+            <div n="7" type="scene">
+               <head>SCENE VII.</head>
+               <stage>
+                  <hi>Enter</hi> Drink-fight, Roger, Aſtrophil, Auſtin: <hi>All with Pipes on their Shoulders, and other Furniture.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drink-fight.</speaker>
+                  <p>Now my Martial Volunteers, to inſtruct you in the military Poſtures of the Pipe, and to make you proficient Souldiers in the Artillery of Tabacco, Lieutenant, Serjeant, <hi>&amp;c.</hi> March up in Ranks— Stand— Stoop your Muskets— Draw your Bandileers— Charge your Pieces— Ram your Powder— Prime your Pan— Light your Match— Pre<g ref="char:EOLhyphen"/>ſent— Give Fire—</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Humphry, <hi>like a Traveller.</hi>
+               </stage>
+               <sp>
+                  <speaker>Humphrey.</speaker>
+                  <p>Under this Cloud I'll walk Gentlemen, pardon my rude Aſſault: I am a Traveller, who having ſurvey'd moſt of the Terreſtrial Angles in this Globe, am hither arriv'd, to peruſe this little Spot.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-fight.</speaker>
+                  <p>A Traveller? Why, what Myſteries canſt thou relate of thy Experience?</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>I can tell you more than all the creeking Barbers in <hi>Europe,</hi> than a Swarm of Poſts: I am the only Intelligen<g ref="char:EOLhyphen"/>cer, and Antiquary of Stories, the Cuſtom Houſe of Relations; as if I had procur'd the Patent or Charter of News. Alas, the Hiſtoriographers and Annaliſts, do lye now a days like Poets, and the Chronicles are turned Paraſites. I have ſeen the <hi>Terra Incognita,</hi> where the Ladies ſay their Prayers, and the Courtiers keep their Promiſes, the Uſurers lend <hi>Gratis,</hi> and the Prodigals build Hoſpitals: Nay, the very Scriveners wear long Ears, and the Towns-men ſhorn Foreheads. I could relate what glorious Fools I ſaw there; but 'tis dange<g ref="char:EOLhyphen"/>rous medling with Nobles. I can tell you the preciſe Number of all the Whipping Poſts in Purgatory, and how many pound of Brimſtone is ſpent yearly in Hell, tho' I was never there to ſee them weigh'd.</p>
+               </sp>
+               <sp>
+                  <pb n="12" facs="tcp:98558:11"/>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>You diſcourſe like one that have ſeen the Books of Fate, or read the Sybills Leaves.</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>Piſh! Theſe are but obvious Trifles, I have ſeen a Legion of wonders, ſuch as would make Fabulous <hi>Pliny</hi> ſeem Authentick, and <hi>Romes</hi> Adulterate Relicks prove Articles.</p>
+                  <l>I ſaw <hi>Jupiter's</hi> Nod in a Cob-web Net,</l>
+                  <l>And <hi>Saturn's</hi> Frown writ in Braſs,</l>
+                  <l>With <hi>Venus</hi> her Kiſs in a Ring of Jet,</l>
+                  <l>And <hi>Juno</hi>'s Groan in a Glaſs:</l>
+                  <l>A ſtifled Thought in a Bag cloakt up;</l>
+                  <l>With a Sigh that was grey with Age,</l>
+                  <l>
+                     <hi>Diana</hi>'s Hem in a Nutſhel Cup,</l>
+                  <l>And <hi>Apollo</hi>'s Beam in a Cage.</l>
+                  <l>The Syrrup of Bluſhes new Diſtill'd,</l>
+                  <l>The Maiden Head of a Dream,</l>
+                  <l>The Soul of a Smile that was lately Kill'd,</l>
+                  <l>Enamel'd with a Stream.</l>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>I muſt applaud your Invention in this, and not your Travel.</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>Nay, Theſe are not <hi>Minerva</hi>'s of my Brain. Alas my head brings forth no Creatures but Travellers Lice.</p>
+               </sp>
+               <sp>
+                  <speaker>Auſtin.</speaker>
+                  <p>Why, Theſe exceed all Miracles. Pray, where wert thou Bred?</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>Faith, every where, I am a living Miſcellany of all Cuſtoms, and I have loſt my ſelf into another <hi>Metempychoſis.</hi> In <hi>Barbary</hi> I loſt my Manners, in <hi>Hungary</hi> mine Abſtinence; my Gentility in <hi>Sclavonia;</hi> in <hi>Spain</hi> I made Shipwrack of mine Ho<g ref="char:EOLhyphen"/>neſty; in <hi>Germany</hi> of my Religion; in <hi>France</hi> my Noſe was in more danger, than in <hi>Ruſſia</hi> and <hi>Greenland</hi> Froſt. In my Journy through <hi>
+                        <g ref="char:V">Ʋ</g>topia,</hi> I met with a Companion, that wore a Lecture of Arts in his Habit; his thick Hat was a dull Problem; or a great deal of matter in a ſhort cut; his Face was a <hi>Greek</hi> Criti<g ref="char:EOLhyphen"/>ciſme full of <hi>Meanders,</hi> and Intricacies; his Pate a Paradox, con<g ref="char:EOLhyphen"/>trary to all the Nation; his Breeches are exact Character, for they were ſo cloſe, that they diſplai'd every part of him, and his Doublet a plain Anatomy, nothing but Cuts and Slaſhes. This
+<pb n="13" facs="tcp:98558:11"/>ſame ſtranger was the very <hi>Ariſtotle</hi> of all Poets, for he could ex<g ref="char:EOLhyphen"/>preſs Five kind of Poems in an Inſtant, without the help of Pen or Ink. He could ſpeak forth a fluent Epigram; he could weep forth a Doleful Elegy; he could finger out a Mirthfull Lyric; he could grin out a biteing Satyr, and tread forth a ſtalking Heroic in ſpondee Feet; not many Degrees from this Horizon, I happen'd on a Diminutive Man, whom I Limb'd out in this Paper. Hearken, and you ſhall ſee him.</p>
+                  <lg>
+                     <head>A Dwarf.</head>
+                     <l>
+                        <hi>Behold his Portraicture! whom you'll ſuppoſe</hi>
+                     </l>
+                     <l>
+                        <hi>In Rime a Pigmy, or a Dwarf in Proſe;</hi>
+                     </l>
+                     <l>
+                        <hi>A Coppy of Natures ſhort-hand, and who can</hi>
+                     </l>
+                     <l>
+                        <hi>Without a Metaphor be call'd a Span.</hi>
+                     </l>
+                     <l>
+                        <hi>If man be but a little World; then he</hi>
+                     </l>
+                     <l>
+                        <hi>Was the Analyſis of an Epitome.</hi>
+                     </l>
+                     <l>
+                        <hi>A ſheet of Paper would, tho it were broke,</hi>
+                     </l>
+                     <l>
+                        <hi>Make him an</hi> Engliſh <hi>Jeſuits long Cloak.</hi>
+                     </l>
+                     <l>
+                        <hi>His Beard face his Doublet, juſt for ſpace,</hi>
+                     </l>
+                     <l>
+                        <hi>And length, 'twas like ſome Puritans long Grace.</hi>
+                     </l>
+                     <l>
+                        <hi>His Noſe would bear no jeſt, his Cabbage Pate</hi>
+                     </l>
+                     <l>
+                        <hi>Was ſure too big to enter Heavens ſtrait Gate.</hi>
+                     </l>
+                     <l>
+                        <hi>His Ears, and Shoulders kiſs'd, his Waſte did ſhun</hi>
+                     </l>
+                     <l>
+                        <hi>All Smiles b'ing ſwoln beyond</hi> Ben-John-Sons <hi>Tun.</hi>
+                     </l>
+                     <l>
+                        <hi>His Legs like Bag-Pipes, which a natural Gout</hi>
+                     </l>
+                     <l>
+                        <hi>Has blown at leaſt ſome</hi> 13 <hi>Inchabout.</hi>
+                     </l>
+                     <l>
+                        <hi>But if I could his little Feet rehearſe,</hi>
+                     </l>
+                     <l>
+                        <hi>They were too ſhort to make a Foot in Verſe.</hi>
+                     </l>
+                     <l>
+                        <hi>Well! I will ſay no more, leaſt I ſhould name,</hi>
+                     </l>
+                     <l>
+                        <hi>A Pigmy's Picture in a Giants Frame.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>A pretty patcel of Wit, I Faith, come, we'll en<g ref="char:EOLhyphen"/>ter into our Society immediately.</p>
+               </sp>
+               <sp>
+                  <speaker>Humphry.</speaker>
+                  <p>Stay! Let us expect a while; It is reported that there was a Chriſtmaſs ſhow to be preſented at the next Houſe, of the Four parts of the Year, contending for Priority. Let us not omit any Satisfaction, either of Mirth or Novelty. Look!
+<pb n="14" facs="tcp:98558:12"/>
+                     <hi>Apollo</hi> the Moderator is enter'd, and <hi>Terra</hi> doth induct the reſt.</p>
+               </sp>
+               <stage>
+                  <hi>Enter firſt</hi> Apollo, <hi>then</hi> Terra <hi>leads in the Four Parts of the Year, viz.</hi> Ver, Aeſtas, Autumnus, <hi>and</hi> Hyems.</stage>
+               <lg>
+                  <head>Terra.</head>
+                  <l>
+                     <hi>Can ſuch a Combat find a Scene? can yee</hi>
+                  </l>
+                  <l>
+                     <hi>Spectators ſtand at the Worlds Tragedy?</hi>
+                  </l>
+                  <l>
+                     <hi>When</hi> Atlas <hi>Heavens great Porter fears the Fall</hi>
+                  </l>
+                  <l>
+                     <hi>Of his Burden at Times Funeral.</hi>
+                  </l>
+                  <l>
+                     <hi>The groaning Globe in Labor now lies ſick,</hi>
+                  </l>
+                  <l>
+                     <hi>And the whole Orb is turn'd Peripatetick.</hi>
+                  </l>
+                  <l>
+                     <hi>Both Poles do crack his Frame, e're while ſo ſafe,</hi>
+                  </l>
+                  <l>
+                     <hi>Ballanc'd now ſinks into its Epitaph.</hi>
+                  </l>
+                  <l>
+                     <hi>The Parts o'th' Year raiſe Civil Wars, and Thirſt</hi>
+                  </l>
+                  <l>
+                     <hi>For vain Supremacy, who ſhall prove firſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>§.</head>
+                  <l>
+                     <hi>How will Aſtronomers ſtartle, and miſtake</hi>
+                  </l>
+                  <l>
+                     <hi>The Months, at the Birth of this New Almanack!</hi>
+                  </l>
+                  <l>
+                     <hi>When frozen</hi> July <hi>ſhall be ſtarv'd, and Dry</hi>
+                  </l>
+                  <l>December <hi>in a Burning Feaver lie.</hi>
+                  </l>
+                  <l>
+                     <hi>But thou great Monarch calm their Stormy Pride,</hi>
+                  </l>
+                  <l>
+                     <hi>Before it ſwell into a Factious Tide.</hi>
+                  </l>
+                  <l>
+                     <hi>He Builds that keeps from Ruin, who ſo States</hi>
+                  </l>
+                  <l>
+                     <hi>This wild Sedition, he again Creates.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ver.</head>
+                  <l>
+                     <hi>What uſe of Pleading is there, when we ſee</hi>
+                  </l>
+                  <l>
+                     <hi>The chiming Birds in Natures Heraldry</hi>
+                  </l>
+                  <l>
+                     <hi>Blazing my Argent Feild? each vocal ſtream</hi>
+                  </l>
+                  <l>
+                     <hi>By me made both the Grater, and the Theme.</hi>
+                  </l>
+                  <l>
+                     <hi>Look on the Years Virginity, and ſee</hi>
+                  </l>
+                  <l>
+                     <hi>How</hi> Flort <hi>ſtruts in her new Tapoſtry;</hi>
+                  </l>
+                  <pb n="15" facs="tcp:98558:12"/>
+                  <l>
+                     <hi>Deck't in her Parl'ment Robes, and Richeſt Mold,</hi>
+                  </l>
+                  <l>
+                     <hi>A Native Mint ſhines in each Marygold.</hi>
+                  </l>
+                  <l>
+                     <hi>Behold the Earth made Paradiſe! below</hi>
+                  </l>
+                  <l>
+                     <hi>A Conſtellation doth of Roſes grow.</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Clouds of Violets wave, whoſe annual Spice</hi>
+                  </l>
+                  <l>
+                     <hi>Offers an Everlaſting Sacrifice.</hi>
+                  </l>
+                  <l>
+                     <hi>Mantles of Pinks (like Rain-Bows) do diſplay</hi>
+                  </l>
+                  <l>
+                     <hi>Their Beams, and Lillies make a Milky way.</hi>
+                  </l>
+                  <l>
+                     <hi>And that my Palace may true Heaven be ſaid,</hi>
+                  </l>
+                  <l>
+                     <hi>Harveſtst of gods here are not made, but bred.</hi>
+                  </l>
+                  <l>
+                     <hi>I am the Nurſe of Health, and Queen of ſport,</hi>
+                  </l>
+                  <l>
+                     <hi>Each Goddeſs Nymph's but Hand-maid to my Court.</hi>
+                  </l>
+                  <l>
+                     <hi>I dreſs the Fowl in Marriage Cloths, and Wed</hi>
+                  </l>
+                  <l>
+                     <hi>The Nuptial Birds, and ſtrait bring them to Bed.</hi>
+                  </l>
+                  <l>
+                     <hi>And when the Captive Earth in Pennance ſtands</hi>
+                  </l>
+                  <l>
+                     <hi>Clad in a Sheet of Snow, I loſe their Bands.</hi>
+                  </l>
+                  <l>
+                     <hi>Yet though I ranſome them from Chains, and do</hi>
+                  </l>
+                  <l>
+                     <hi>Repreive their Thrall, I'll ſtill be bound to you.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Summer.</head>
+                  <l>
+                     <hi>Dare you deſcend in Combat, when each Field</hi>
+                  </l>
+                  <l>
+                     <hi>Is up in Arms and Ranks of Pik's doth yeild,</hi>
+                  </l>
+                  <l>
+                     <hi>Like a wild</hi> Porcupine? <hi>But know inſtead,</hi>
+                  </l>
+                  <l>
+                     <hi>That Words have Edges, and Tongues are Swords indeed.</hi>
+                  </l>
+                  <l>
+                     <hi>Each Furrow gapes, and ſaith the golden Fee</hi>
+                  </l>
+                  <l>
+                     <hi>Of</hi> Venus <hi>Beauty, was ſtoln from one Tree,</hi>
+                  </l>
+                  <l>
+                     <hi>And the</hi> Herculean <hi>Apples, the Orator Towrs,</hi>
+                  </l>
+                  <l>
+                     <hi>His Rhetorick Noſe-gays, borrow'd from my Flowrs.</hi>
+                  </l>
+                  <l>
+                     <hi>Wer't not for Allegories made from me, pray whence</hi>
+                  </l>
+                  <l>
+                     <hi>Would Poets Rime, or School Boys have their ſenſe?</hi>
+                  </l>
+                  <l>
+                     <hi>I warm the ſtupid Air, ſhould I withhold</hi>
+                  </l>
+                  <l>
+                     <hi>My Heat, even Heavens Kitching would grow cold.</hi>
+                  </l>
+                  <l>
+                     <hi>See how th' Adopted Boughs are Thatch'd, whoſe Maine</hi>
+                  </l>
+                  <l>
+                     <hi>By</hi> Phaebus <hi>curling Irons are Criſp'd again.</hi>
+                  </l>
+                  <l>
+                     <hi>And by the Cutwork, which from thence is made,</hi>
+                  </l>
+                  <l>
+                     <hi>Checkers the ground, through Twilight of a ſhade.</hi>
+                  </l>
+                  <l>
+                     <hi>The Surplic'd Swans, new raviſhing Tunes indite,</hi>
+                  </l>
+                  <l>
+                     <hi>Doctors of Muſick in their Robes of White.</hi>
+                  </l>
+                  <pb n="16" facs="tcp:98558:13"/>
+                  <l>
+                     <hi>O would that</hi> Phaeton <hi>rul'd this Radiant Sphere,</hi>
+                  </l>
+                  <l>
+                     <hi>That we might have a Summer all the Year.</hi>
+                  </l>
+                  <l>
+                     <hi>When I'd be Empreſs, when I take the Foil,</hi>
+                  </l>
+                  <l>
+                     <hi>May all the Earth be made one Fun'ral Pile.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Autumn.</head>
+                  <l>
+                     <hi>'Tis time for Conqueſt, Victory ſhould ſue</hi>
+                  </l>
+                  <l>
+                     <hi>For place, not be invited when 'tis due;</hi>
+                  </l>
+                  <l>
+                     <hi>For theſe are but my Tenants, who thereby</hi>
+                  </l>
+                  <l>
+                     <hi>Enrich'd, pay Tribute to my Treaſurie.</hi>
+                  </l>
+                  <l>
+                     <hi>I keep the Keys o'th' great Exchequer, whence</hi>
+                  </l>
+                  <l>
+                     <hi>Nature is furniſh'd for her Years Expence.</hi>
+                  </l>
+                  <l>
+                     <hi>I die the Grapes in Purple bluſhes ſtill.</hi>
+                  </l>
+                  <l>
+                     <hi>My Vintage doth</hi> Jove's <hi>azure Wine-Tub fill.</hi>
+                  </l>
+                  <l>
+                     <hi>In vain the Spring doth ſmile, and Summer Crown</hi>
+                  </l>
+                  <l>
+                     <hi>The Earth, ſince I can blaſt it with one frown.</hi>
+                  </l>
+                  <l>
+                     <hi>If once I Rage, a Camp of Winds would ſplit</hi>
+                  </l>
+                  <l>
+                     <hi>The whole Creation with an Ague Fit.</hi>
+                  </l>
+                  <l>
+                     <hi>And bandy Towers into th' Air, untill</hi>
+                  </l>
+                  <l>
+                     <hi>They from their Stories fall to Chronicle.</hi>
+                  </l>
+                  <l>
+                     <hi>Walls ſleep without their Bed-ſtaves, and each Bell</hi>
+                  </l>
+                  <l>
+                     <hi>Struck Dumb with Noiſe, doth ring out its own Knell.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let him private ſtand, who pleas'd can make</hi>
+                  </l>
+                  <l>
+                     <hi>The World all Faint, but being anger'd Quake.</hi>
+                  </l>
+                  <l>
+                     <hi>I raiſe ſuch Floods, till Cities ſwim in Barks,</hi>
+                  </l>
+                  <l>
+                     <hi>And floating Churches are become true Arks.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Winter.</head>
+                  <l>
+                     <hi>What? hath the cold of Cowardice ſo froze</hi>
+                  </l>
+                  <l>
+                     <hi>My glow-worm Soul, not to be thaw'd by thoſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Who only brag of Colors? and whoſe Vaunt</hi>
+                  </l>
+                  <l>
+                     <hi>Boaſts in the Trappings of an outſide Paint;</hi>
+                  </l>
+                  <l>
+                     <hi>Whilſt that the Cloven Earth doth gaſping lie,</hi>
+                  </l>
+                  <l>
+                     <hi>And the Chill Fountains</hi> Terra<hi>'s Dugs drawn dry.</hi>
+                  </l>
+                  <l>
+                     <hi>But Vertue is no Bawd, it ſtill hath been</hi>
+                  </l>
+                  <l>
+                     <hi>Her modeſt Grace to keep her Court within.</hi>
+                  </l>
+                  <l>
+                     <hi>See! how the Floods with admiration Tam'd,</hi>
+                  </l>
+                  <l>
+                     <hi>With wonder ſtand, in Summer only Lam'd;</hi>
+                  </l>
+                  <pb n="17" facs="tcp:98558:13"/>
+                  <l>
+                     <hi>And</hi> Boreas <hi>(Winter Barber) ſhaves the Trees</hi>
+                  </l>
+                  <l>
+                     <hi>By the grave Statute of my Dioceſe;</hi>
+                  </l>
+                  <l>
+                     <hi>Whilſt Snowy</hi> Juno <hi>ſcatters o're my Stage,</hi>
+                  </l>
+                  <l>
+                     <hi>Argent enough to make a Silver Age.</hi>
+                  </l>
+                  <l>
+                     <hi>I am the Seminary of Valour, there,</hi>
+                  </l>
+                  <l>
+                     <hi>Hectors do ſcarce contend with Taylors here.</hi>
+                  </l>
+                  <l>
+                     <hi>Do but aſcend; the loftier you ſtray,</hi>
+                  </l>
+                  <l>
+                     <hi>The nearer Heaven, ſtill the Colder way.</hi>
+                  </l>
+                  <l>
+                     <hi>But I am too patient, Words do ſpend the ſumm</hi>
+                  </l>
+                  <l>
+                     <hi>Of Wrath, ſince trueſt Fury ſtill is Dumb.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Apollo.</head>
+                  <l>
+                     <hi>More Monſters ſtill? or Giants new alive?</hi>
+                  </l>
+                  <l>
+                     <hi>Do Broods of</hi> Python <hi>ſwarm within my Hive?</hi>
+                  </l>
+                  <l>
+                     <hi>Have I ſo often Kiſs'd you with my Lips,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nmask'd from Clouds? and ſhin'd without Eclyps.</hi>
+                  </l>
+                  <l>
+                     <hi>Was I choſe Viſitor to o'reſee the Year?</hi>
+                  </l>
+                  <l>
+                     <hi>That that a real Serpent ſhould appear,</hi>
+                  </l>
+                  <l>
+                     <hi>And prove my ſelf a Traytor? have my ſacred Fires</hi>
+                  </l>
+                  <l>
+                     <hi>Kindled the ambitious Heat of proud Deſires?</hi>
+                  </l>
+                  <l>
+                     <hi>Is Gratitude quite extinguiſh'd, and will yee</hi>
+                  </l>
+                  <l>
+                     <hi>Prophane my Crown by Civil Blaſpemy?</hi>
+                  </l>
+                  <l>
+                     <hi>Either <g ref="char:V">Ʋ</g>nite your hands, or I'll awake</hi>
+                  </l>
+                  <l>Egyptian <hi>Darkneſs, or th' old Chaos make.</hi>
+                  </l>
+                  <l>
+                     <hi>Wheel in a Circular Courſe, and let the ſtring</hi>
+                  </l>
+                  <l>
+                     <hi>Of Friendſhip be as endleſs as the Ring,</hi>
+                  </l>
+                  <l>
+                     <hi>That ye may in a round Quadrature be caſt,</hi>
+                  </l>
+                  <l>
+                     <hi>For in a Globe there's neither firſt nor laſt.</hi>
+                  </l>
+               </lg>
+               <stage>[Exit, ſhow in a Circle.</stage>
+               <sp>
+                  <speaker>Drink-Fight.</speaker>
+                  <p>This would have paſs'd for an indifferent Maſque in <hi>Guild-Hall,</hi> had it been Hammer'd out by a Company of Joi<g ref="char:EOLhyphen"/>ners. But come! Let us retreat! This ſtrong Beer will take Cold, and the Wine will Freeze in the Rundlets. We'll carowſe off ſome frivolous Gallons for a Libamen to <hi>Bacchus,</hi> then have a Meſs of Bones ſcru'd in, where every man ſhall try the Dexterity of his Fortune.</p>
+               </sp>
+            </div>
+            <div n="8" type="scene">
+               <pb n="18" facs="tcp:98558:14"/>
+               <head>SCENE VIII.</head>
+               <sp>
+                  <speaker>Shab-Quack.</speaker>
+                  <p>Oh! This Peace and good Government make's me ſick at heart. 'Tis but a dead time with me, when my Razors have kept Holiday theſe Two Months. I wiſh I were a Journey<g ref="char:EOLhyphen"/>man in ſome Port-Town of <hi>Batavia,</hi> where the Mines are made but Slaughter Houſes, and Murder is become a Profeſſion. Here's ſo much Patience, and Cowardice in <hi>England,</hi> that ſtarve's up all the poor Chyrurgeons. Were it not for the Valor of Gentlemen againſt Catch-Poles, and ſome Pathetical Brethren, that in Zeal dare knock down their Fellows, we might e're this have been all ſent to the High-ways and Alms-Houſes. Oh! That Chriſtians had but the Charity to be wounded ſometimes; for if they were but once ſuſpected of a Cut, I have as many Tricks as a Canker to bliſter a green Sore; but my Cuſtome is ſo ſlender, that I am forc'd to make my Bread of Saw-Duſt, and to drink nothing but Pump-water; a Mouſe were a Sheriffs Banquet to me, and I Feaſt upon Spiders, as familiarly as a Mountebank. I had a Pi<g ref="char:EOLhyphen"/>geons Egg laſt Night for Supper, but I was glad to lay up Orts till the next Meal, for fear I ſhould turn Epicure. A Sparrows Carcaſs would ſurfeit me, my ſtomach is ſo contracted. For my Life hath beene perpetual <hi>Good-Friday,</hi> nothing but a Faſt. I have but two Dogs in mine Houſe and (alas!) they are fain to live like younger Brothers, by their Wits. If my Prentice had continu'd with me till this time, we had been preſented to the Phyſick-School for Skeletons.</p>
+               </sp>
+               <stage>[They knock him within.</stage>
+               <stage>
+                  <hi>Enter</hi> Win-all, <hi>the Hoſt, all Bloody.</hi>
+               </stage>
+               <sp>
+                  <speaker>Win-all.</speaker>
+                  <p>Help! Help! Murder! O Mr. <hi>Shab-Quack,</hi> here's a Kennel of Furies have almoſt unrafted my head for ſhewing them the Reckoning. I profer'd them the Total Sum, and they paid me in Fractions; but I'll make 'em know they have peirc'd a wiſer Hogshead than their own.</p>
+               </sp>
+               <sp>
+                  <pb n="19" facs="tcp:98558:14"/>
+                  <speaker>Shab-quack.</speaker>
+                  <p>Retire with ſpeed, your Blood begins to curdle to a Jelly.</p>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+            </div>
+            <div n="9" type="scene">
+               <head>SCENE IX.</head>
+               <stage>
+                  <hi>Enter</hi> Drink-fight, Roger, Aſtrophil, <hi>with their Doublets off.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drink fight.</speaker>
+                  <p>A Pox of this mangy Traveller, 'twas but an homely Trick of him to ſhift us this weather, that's the naked Truth on't. 'Slid, how the Rogue hath par'd us 'zars, my mo<g ref="char:EOLhyphen"/>ney ſlid away, as if it had been all Quickſilver.</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Now could I find in my Heart to cry moſt devoutly. if my Tears would but congeal to Silver, as the <hi>Hebiades</hi> did to Amber. I'll even be ſick of the Yellow Jaundies, and yet I cannot ſee any thing of the Color of Gold. Sure Fortune's Wheell ſtands ſtill: She was never unconſtant to me, For I had always Ill Luck. Well, we were predeſtin'd to be undone. Alas poor Captain!</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-fight.</speaker>
+                  <p>How now Sirrah, how dare you pity me?</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Indeed my pity ſhould reflect on my ſelf: For I am now the moſt tranſcendent <hi>Hyperboly</hi> of all Miſery.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-fight.</speaker>
+                  <p>Sirrah, thou lyeſt, I ſcorn any man ſhould be more miſerable than my ſelf.</p>
+               </sp>
+               <lg>
+                  <head>Aſtrophil.</head>
+                  <lg>
+                     <head>(1.)</head>
+                     <l>
+                        <hi>This Pipe's my Pillar of Clouds,</hi>
+                     </l>
+                     <l>
+                        <hi>Such Meteors I love to utter:</hi>
+                     </l>
+                     <l>
+                        <hi>More than Welch-men do Cheeſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Or an Engliſh-man Eaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Or a Dutch-man loves Salt Butter.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>(2.)</head>
+                     <l>
+                        <hi>If Riches be but a Smoak,</hi>
+                     </l>
+                     <l>
+                        <hi>And Fame be but a Vapor,</hi>
+                     </l>
+                     <l>
+                        <hi>Here's a rich Mine indeed,</hi>
+                     </l>
+                     <l>
+                        <hi>In this fumy Weed,</hi>
+                     </l>
+                     <l>
+                        <hi>And Honor enough in a Taper.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <p>Oh, 'twould e'en make <hi>Heraclitus</hi> to laugh his Lungs out, to
+<pb n="20" facs="tcp:98558:15"/>ſee the Diſtempers of theſe two Wretches: He's a Fool that can't win without Joy, or loſe without Sorrow.</p>
+               <sp>
+                  <speaker>Drink-fight.</speaker>
+                  <p>Now do I find my ſelf going into a pure Raskal. I could almoſt find in my heart to turn valorous, and beat my ſelf for being ſuch an arrant Coxcomb. What now, ſhall I turn Curate? For there's no Learning required to that, but a lame Arm, and a loud Voice; Or ſhall I be a Noble-Man's Pan<g ref="char:EOLhyphen"/>der? But a Pox on't, there be too many of that Trade already. But let me ſee, what Religion is now in Faſhion? Shall I be a Lay-Divine? For I could counterfeit a compleat Gogle. Pray God I be not honeſt: For then I am ſure to live miſerable; but if ſome body ſhould make me honeſt in ſpite of my Teeth, I hope 'tis nor my fault. Well, I'll take care for Honeſty be ſure: I'll e'n turn Manciple, or Lawyer's Clerk. If Heaven once give over to proſper Knaves why then Fortune hath Eyes.</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Now will I juſt make my Will, and then hang my ſelf, or elſe let out my Soul at a Wicket. The firſt Legacy I beſtow, ſhall be my former Mirth, which I bequeath to all this Audience: my Madneſs, to the Commoners of <hi>Bedlam</hi> Hall: my Stomach, to the Company of the Guard: my Poverty, to a College of Scholars: mine Empty Head, to the Pope's Privy Council: my Hypocriſie, to a <hi>Banbury</hi> Brother; my Treachery, to a Conſpiracy of Jeſuits; and my Soul to him that got it.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Win-all, <hi>the Hoſt, with two Serjeants.</hi>
+               </stage>
+               <sp>
+                  <speaker>Win-all.</speaker>
+                  <p>There the Sheeps-heads creep without their Fleeces, ſurprize 'em ſuddenly.</p>
+               </sp>
+               <stage>Exeunt omnes running.</stage>
+            </div>
+            <div n="10" type="scene">
+               <head>SCENE X.</head>
+               <stage>
+                  <hi>Enter</hi> Mr. Make-peace, <hi>in a Chair.</hi>
+               </stage>
+               <sp>
+                  <speaker>Make-peace.</speaker>
+                  <p>Not yet return'd my Son? Then let me weep my Body dry to Duſt, and make this Chair my Coffin.</p>
+               </sp>
+               <stage>
+                  <pb n="21" facs="tcp:98558:15"/> 
+                  <hi>Enter</hi> Win-all <hi>and</hi> Shab quack, <hi>with two Serjeants lead<g ref="char:EOLhyphen"/>ing in</hi> Aſtrophil, Drink-fight <hi>and</hi> Roger.</stage>
+               <sp>
+                  <speaker>Win-all.</speaker>
+                  <p>Sir! I have hither ſummon'd the Delinquents, and Mr. <hi>Shab-quack</hi> too, that he might witneſs how fataily my Skull was batter'd, like a cruſh'd Egg-ſhell.</p>
+               </sp>
+               <sp>
+                  <speaker>Make-peace.</speaker>
+                  <p>What <hi>Aſtrophil?</hi> I am inform'd again; and whilſt thou giveſt me Life, thou doſt requite my Gift of being thy Fa<g ref="char:EOLhyphen"/>ther. Methinks there is a young Spring in all my Limbs, my Blood trips Coranto's in my capering Veins.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſtrophil.</speaker>
+                  <p>Sir! <hi>&amp;c.</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>Make-peace,</speaker>
+                  <p>Nay, I will not be guilty of the Cruelty, to hear thee entreat: Thy Pardon be as plentiful as my Joy.</p>
+               </sp>
+               <sp>
+                  <speaker>Shab-quack.</speaker>
+                  <p>
+                     <hi>Roger</hi> too return'd! This is a day of Reſtitution. Riſe, I forgive thee thy Extravancy for this good Employment which you have ſent me: It prov'd the beſt Service that you perform'd.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Humphry, <hi>with all their Money and Cloaths.</hi>
+               </stage>
+               <sp>
+                  <speaker>Humphry,</speaker>
+                  <p>Here I ſurrender up all my Winnings, Sir, I found them after ſome falſe Enquiries, carrowſing at an Ordinary there in a Diſguiſe. I cogg'd into their Society: Afterward, with falſe Dice, I heard 'em, naked of all, ſuppoſing Want to be the beſt Counſellor to call them home.</p>
+               </sp>
+               <sp>
+                  <speaker>Make-peace.</speaker>
+                  <p>Thy Travel ſhall be abundantly rewarded—</p>
+               </sp>
+               <sp>
+                  <speaker>Drink fight.</speaker>
+                  <p>Now is the Hermit drunk under the Table, and ſnorts as loud as an Alderman at a Sermon.</p>
+               </sp>
+               <stage>Enter Hermit, with his Attire.</stage>
+               <sp>
+                  <speaker>Hermit.</speaker>
+                  <p>Will you buy any Botttles, Glaſſes, Candleſticks? Will you buy any Chamberpots, Cuſhions, or Tobaccopipes, hoe?</p>
+               </sp>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>How now <hi>Hermit!</hi> what, are you tranſlating the Ordinary?</p>
+               </sp>
+               <sp>
+                  <speaker>Hermit.</speaker>
+                  <p>Yes, I intend to turn Pedler of great Wares—</p>
+               </sp>
+               <sp>
+                  <pb n="22" facs="tcp:98558:16"/>
+                  <speaker>Win-all.</speaker>
+                  <p>Yonder is a Snail too, ſtealing my Houſe away upon his Back.</p>
+               </sp>
+               <sp>
+                  <speaker>Make-peace.</speaker>
+                  <p>Bridle your Indignation; I will recompence yours, and <hi>Shab-quack</hi>'s Damages with a double Intereſt: And becauſe the <hi>Hermit</hi> is in a frolick Humor, I'll bind him to you for an Apprentice; but the Captain I will richly furniſh for the Wars.</p>
+               </sp>
+               <sp>
+                  <speaker>Drink-fight,</speaker>
+                  <p>Sir, I will live your Knight Errant, and fight for your Honor, till my Fleſh is all ſlic'd in Gobbets.</p>
+               </sp>
+               <sp>
+                  <speaker>Make-peace.</speaker>
+                  <p>Come, follow me all, and I will ſatisfie you with a pleurify of Delights.</p>
+               </sp>
+               <stage>Exeunt omnes ſimul.</stage>
+               <sp>
+                  <speaker>Hermit.</speaker>
+                  <p>I am more proud of this Preferment, than if I had been choſen <hi>Jupiter</hi>'s Cup-bearer. I will get me a Tupſter's red Noſe immediately, and be always drunk firſt my ſelf, for the good Ex<g ref="char:EOLhyphen"/>ample of the Gueſts.</p>
+               </sp>
+               <stage>Exit.</stage>
+            </div>
+            <div type="epilogue">
+               <head>The Epilogue.</head>
+               <lg>
+                  <l>
+                     <hi>Your Reck'ning Bill's brought up, and now we ſtand</hi>
+                  </l>
+                  <l>
+                     <hi>Suppliants t' have your Score paid down at hand:</hi>
+                  </l>
+                  <l>
+                     <hi>For every Line ſhall be your Page, to ſhew,</hi>
+                  </l>
+                  <l>
+                     <hi>Each Foot we write doth make a Leg to you.</hi>
+                  </l>
+                  <l>
+                     <hi>Then Pardon our Offences, ſince each Letter,</hi>
+                  </l>
+                  <l>
+                     <hi>Doth mourn in black, and weeps to be your Debtor.</hi>
+                  </l>
+                  <l>
+                     <hi>We ne're paid Fees for Comicks, or to ſit</hi>
+                  </l>
+                  <l>
+                     <hi>A Pupil enter'd in the School of Wit.</hi>
+                  </l>
+                  <l>
+                     <hi>What e're was ſhown, was but our duties Thoughts.</hi>
+                  </l>
+                  <l>
+                     <hi>Writ out in Errors, Scenes of Loyal Faults.</hi>
+                  </l>
+                  <l>
+                     <hi>Adventur'd thus by him, who thought not meet,</hi>
+                  </l>
+                  <l>
+                     <hi>Chriſtmaſs ſhould go t'her Grave without a Sheet.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS</trailer>
+               <pb facs="tcp:98558:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
